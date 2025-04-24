@@ -1,8 +1,8 @@
-# E-Commerce (Ecart) React Project [Live Link](https://e-cart-five-psi.vercel.app/)
+# E-Commerce (Electronic Cart) React Project [Live Link](https://electronic-cart.vercel.app/)
 
 ## Project Overview
 
-This is a frontend-only React project (Ecart) that provides an online shopping experience for users. The project includes features such as product browsing, cart management, product details, and order placement.
+This is a frontend-only React project (Electronic Cart) that provides an online electronic items shopping experience for users. The project includes features such as product browsing, cart management, product details, and order placement.
 
 ## Features
 
@@ -21,7 +21,7 @@ This is a frontend-only React project (Ecart) that provides an online shopping e
 
 ### Clone the repository:
 
-git clone https://github.com/shivamu509/E-Cart.git
+git clone https://github.com/shalini118/Electronic-Cart.git
 cd ecart-react-project
 
 ### Install project dependencies
